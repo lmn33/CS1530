@@ -1,5 +1,5 @@
 ## Lightning Talk Schedule
-
+*Luke Nosbisch
 ## Day 1 (Thu 24 SEP)
 
 ## Day 2 (Thu 29 OCT)
